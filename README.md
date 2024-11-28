@@ -4,6 +4,8 @@
 
 <hr>
 
+### The project could be acessed clicking [here](https://talissonavila.github.io/gh-finder/).
+
 ### Tools Used
 * TypeScript
 * React
