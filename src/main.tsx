@@ -23,7 +23,11 @@ const router = createBrowserRouter([
       },
     ]
   }
-])
+],
+  {
+    basename: '/gh-finder',
+  }
+)
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
